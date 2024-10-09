@@ -1,49 +1,31 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/ykte-feature-graphic.png",
-    title: "YouKnowTheEnding",
+    img: "/project_images/techify.jpg",
+    title: "Techify Ecommerce",
     description:
-      "A cross-platform mobile game (in closed testing) where players try to find the missing pieces of a story.",
-    tech_stack: ["React Native", "Google Cloud", "NextJs", "TailwindCSS"],
-    github_url: "",
-    demo_url: "https://youknowtheending.net/",
+      "Techify is a modern e-commerce web application designed to provide users with a seamless shopping experience. Built on the Django framework, Techify offers a wide range of features for both customers and administrators, ensuring both customers and administrators have everything they need for a successful and enjoyable online shopping journey.",
+    tech_stack: ["HTML", "CSS", "Bootstrap", "JavaScript", "Python", "Django"],
+    github_url: "https://github.com/safu-van/techify",
+    demo_url: "",
   },
   {
-    img: "/renr-responsive.png",
-    title: "RENR Safety App",
+    img: "/project_images/netflix.png",
+    title: "Netflix - Clone",
     description:
-      "A safety application for the Renewable Resources Dept. of BCIT",
-    tech_stack: ["React", "Firebase"],
-    github_url: "",
-    demo_url: "https://renr-bcit.web.app/",
+      "This project is a Netflix-inspired web application that I built using ReactJS as the frontend framework. The primary goal of this project was to enhance my ReactJS skills and learn how to fetch data from a public API, specifically The Movie Database (TMDB) API, to display movies dynamically.",
+    tech_stack: ["HTML", "TailwindCSS", "JavaScript", "React", "TMDB API"],
+    github_url: "https://github.com/safu-van/netflix-clone",
+    demo_url: "https://netflix.techify.fun/",
   },
   {
-    img: "/mymind-responsive.png",
-    title: "MyMind",
+    img: "/project_images/olx.png",
+    title: "OLX - Clone",
     description:
-      "An app where users can purchase online therapy sessions and chat with their therapists.",
-    tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
-    github_url: "https://github.com/salesp07/MyMind---Copy",
-    demo_url: "https://mymindweb.vercel.app/",
-  },
-  {
-    img: "/pokedex-responsive.png",
-    title: "Pokedex",
-    description:
-      "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
-    tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
-    demo_url: "https://pokedex-salesp07.netlify.app/",
-  },
-  {
-    img: "/jobDetect.png",
-    title: "JobDetect",
-    description:
-      "An app to detect if a job posting is a scam or not using its description.",
-    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/JobDetectNode",
-    demo_url: "https://jobdetective.onrender.com/",
+      "This project is an OLX-inspired web application that I built using ReactJS as the frontend framework and Firebase as the backend service. The main goal of this project was to enhance my skills in ReactJS and gain a deeper understanding of Firebase for real-time data handling and backend services.",
+    tech_stack: ["HTML", "TailwindCSS", "JavaScript", "React", "Firebase"],
+    github_url: "https://github.com/safu-van/olx-clone",
+    demo_url: "https://olx.techify.fun/",
   },
 ];
 
