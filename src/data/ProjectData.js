@@ -4,8 +4,8 @@ export const ProjectList = [
     img: "/project_images/techify.jpg",
     title: "Techify Ecommerce",
     description:
-      "Techify is a modern e-commerce web application designed to provide users with a seamless shopping experience. Built on the Django framework, Techify offers a wide range of features for both customers and administrators, ensuring both customers and administrators have everything they need for a successful and enjoyable online shopping journey.",
-    tech_stack: ["HTML", "CSS", "Bootstrap", "JavaScript", "Python", "Django"],
+      "Techify is a modern, feature-rich e-commerce platform built on Django, designed to make online shopping easy and enjoyable. Users can browse a well-organized product catalog, add items to their cart, and complete secure checkouts with integrated PayPal payments. From managing orders to tracking history and applying discount coupons, Techify covers every part of the shopping journey. For administrators, the powerful admin panel streamlines product, user, and order management. With features like ratings and reviews, Techify delivers a comprehensive e-commerce experience for users and admins.",
+    tech_stack: ["HTML", "CSS", "Bootstrap", "JavaScript", "Python", "Django", "Paypal Integration", "PostgreSQL"],
     github_url: "https://github.com/safu-van/techify",
     demo_url: "",
   },
