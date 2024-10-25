@@ -11,7 +11,7 @@ export const ProjectList = [
   },
   {
     img: "/project_images/netflix.png",
-    title: "Netflix - Clone",
+    title: "Netflix Lite",
     description:
       "This project is a Netflix-inspired web application that I built using ReactJS as the frontend framework. The primary goal of this project was to enhance my ReactJS skills and learn how to fetch data from a public API, specifically The Movie Database (TMDB) API, to display movies dynamically.",
     tech_stack: ["HTML", "TailwindCSS", "JavaScript", "React", "TMDB API"],
@@ -20,7 +20,7 @@ export const ProjectList = [
   },
   {
     img: "/project_images/olx.png",
-    title: "OLX - Clone",
+    title: "OLX Lite",
     description:
       "This project is an OLX-inspired web application that I built using ReactJS as the frontend framework and Firebase as the backend service. The main goal of this project was to enhance my skills in ReactJS and gain a deeper understanding of Firebase for real-time data handling and backend services.",
     tech_stack: ["HTML", "TailwindCSS", "JavaScript", "React", "Firebase"],
