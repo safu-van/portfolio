@@ -112,4 +112,8 @@ export const stackList = [
     img: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
     name: "AWS",
   },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg",
+    name: "Postman",
+  },
 ];
