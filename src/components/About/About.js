@@ -20,23 +20,14 @@ function About() {
           </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-              Hello! My name is <strong>Mohamed Safuvan</strong>. As a
-              self-driven developer, I've turned my passion for technology into
-              a dynamic career in software development, continuously learning
-              and leveraging hands-on experience. I’m always eager to dive into
-              new technologies and explore their potential.
+              Hello! My name is <strong>Mohamed Safuvan</strong>. As a passionate tech enthusiast, I’ve transformed my passion for technology into a career in software development. I embrace every opportunity to learn and grow, exploring new technologies with excitement. I focus on developing innovative solutions that tackle challenges and achieve results.
             </ScrollAnimation>
 
             <br />
             <br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              My journey into the world of technology began, After completing my
-              Plus Two education, I chose a different path. Instead of pursuing
-              a college degree, I dedicated over a year to mastering
-              cutting-edge programming technologies and tools. This intense
-              learning experience equipped me with practical skills that rival
-              or even exceed those of many computer science graduates.
+              My journey into the world of technology began, After finishing my secondary education, I chose to take a different path. Instead of pursuing a college degree, I dedicated over a year to learning new programming technologies and tools. This hands-on experience helped me build practical skills and gave me the confidence to create my own path in the tech world.
             </ScrollAnimation>
 
             <br />
@@ -45,8 +36,7 @@ function About() {
             <ScrollAnimation animateIn="fadeInLeft">
               Working collaboratively within a team towards a shared objective
               has been an incredibly rewarding and unique experience for me. I
-              am eager to continue exploring exciting projects in the future,
-              with a particular interest in web development.
+              am eager to continue exploring exciting projects in the future.
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>
