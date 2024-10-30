@@ -34,9 +34,6 @@ function About() {
             <br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              Working collaboratively within a team towards a shared objective
-              has been an incredibly rewarding and unique experience for me. I
-              am eager to continue exploring exciting projects in the future.
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>
