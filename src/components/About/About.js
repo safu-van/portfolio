@@ -20,14 +20,14 @@ function About() {
           </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-              Hello! My name is <strong>Mohamed Safuvan</strong>. As a passionate tech enthusiast, I’ve transformed my passion for technology into a career in software development. I embrace every opportunity to learn and grow, exploring new technologies with excitement. I focus on developing innovative solutions that tackle challenges and achieve results.
+              Hello! My name is <strong>Mohamed Safuvan</strong>. I’m a passionate software developer who loves exploring new technologies and building useful things. I enjoy learning by doing, and I'm always excited to try new tools and ideas that help me grow as a developer.
             </ScrollAnimation>
 
             <br />
             <br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              My journey into the world of technology began, After finishing my secondary education, I chose to take a different path. Instead of pursuing a college degree, I dedicated over a year to learning new programming technologies and tools. This hands-on experience helped me build practical skills and gave me the confidence to create my own path in the tech world.
+              My journey in tech started with a strong interest in how things work. Over time, I’ve built real projects, improved my skills, and focused on solving problems through code. I believe in learning every day and creating software that makes a difference.
             </ScrollAnimation>
 
             <br />
