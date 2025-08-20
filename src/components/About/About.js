@@ -15,15 +15,11 @@ function About() {
       <div className="Container">
         <div className="SectionTitle">About Me</div>
         <div className="BigCard">
-          <ScrollAnimation animateIn="fadeInLeft">
-            <Image src="/man-svgrepo-com.svg" alt="man-svgrepo" />
-          </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-              Hello! My name is <strong>Mohamed Safuvan</strong>. I’m a passionate software developer who loves exploring new technologies and building useful things. I enjoy learning by doing, and I'm always excited to try new tools and ideas that help me grow as a developer.
+              Hello! I’m Mohamed Safuvan a software developer and sales strategist. I’m passionate about building impactful projects, exploring new technologies, and solving real-world problems. I also leverage market insights and customer understanding to drive successful sales strategies, combining technical skills with business impact.
             </ScrollAnimation>
 
-            <br />
             <br />
 
             <ScrollAnimation animateIn="fadeInLeft">
@@ -31,11 +27,10 @@ function About() {
             </ScrollAnimation>
 
             <br />
-            <br />
 
             <ScrollAnimation animateIn="fadeInLeft">
               <div className="tagline2">
-                I have become confident using the following technologies:
+                Over the years, I’ve gained hands-on experience in:
               </div>
             </ScrollAnimation>
 
